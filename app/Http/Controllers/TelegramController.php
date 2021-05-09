@@ -21,7 +21,7 @@ class TelegramController extends Controller
 
         $token = Telegram::getAccessToken();
         $ng_domain = env('NG_DOMAIN');    
-        $result = $client->get('https://api.telegram.org/bot'.$token.'/setWebhook?url=https://f0a241cc6604.ngrok.io/action');
+        $result = $client->get('https://api.telegram.org/bot'.$token.'/setWebhook?url='.$ng_domain.'/action');
 
         return (string) $result->getBody();
     }
