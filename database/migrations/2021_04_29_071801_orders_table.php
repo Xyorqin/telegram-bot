@@ -18,7 +18,7 @@ class OrdersTable extends Migration
             $table->id();
             $table->integer('food_id');
             $table->integer('user_id');
-            $table->integer('phone');
+            $table->biginteger('phone');
             $table->string('region');
             $table->string('city');
             $table->string('address');

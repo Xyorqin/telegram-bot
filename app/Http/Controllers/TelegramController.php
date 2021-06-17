@@ -21,7 +21,7 @@ class TelegramController extends Controller
 
         $token = Telegram::getAccessToken();
         $ng_domain = env('NG_DOMAIN');    
-        $result = $client->get('https://api.telegram.org/bot'.$token.'/setWebhook?url='.$ng_domain.'/action');
+        $result = $client->get('https://api.telegram.org/bot'.$token.'/setWebhook?url=https://b932b6fa4e6b.ngrok.io/action');
 
         return (string) $result->getBody();
     }
@@ -395,7 +395,7 @@ class TelegramController extends Controller
 
         Telegram::sendMessage([
             'chat_id' => $chatId, 
-            'text' => 'Hello '.$firstname.'. siz adminsiz',
+            'text' => 'Salom '.$firstname.'. siz adminsiz',
             'reply_markup' => $keyboard_admin
         ]);
         $this->setUserStep($user, 1);
@@ -468,7 +468,7 @@ class TelegramController extends Controller
         ]);
         Telegram::sendMessage([
             'chat_id' => $client_chatId, 
-            'text' => "Sizning buyurtmanggiz tayyor bo'ldi kelib olib ketishinggiz mumkin",
+            'text' => "Sizning buyurtmanggiz tayyor bo'ldi, buyurtmanggiz tez orada yetkaziladi",
             // 'reply_markup' => $keyboard_admin
         ]);
         $this->setUserStep($user, 7);

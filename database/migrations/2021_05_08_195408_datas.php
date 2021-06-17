@@ -17,7 +17,7 @@ class Datas extends Migration
         Schema::create('datas', function (Blueprint $table) {
             $table->id();
             $table->bigInteger('chat_id');
-            $table->integer('phone')->nullable();
+            $table->biginteger('phone')->nullable();
             $table->string('region')->nullable();
             $table->string('city')->nullable();
             $table->string('address')->nullable();
