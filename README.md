@@ -1,62 +1,56 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<h1>The main purpose of the Fast Food bot is to provide services online</h1>
+<h3>This is the first appearance of the bot</h3>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+![Screenshot_](https://user-images.githubusercontent.com/79446216/122378597-87bc6880-cf7f-11eb-8ee9-f0e4b684d9db.png)
 
-## About Laravel
+<h3>The bot consists of 2 different views. The first is the client view, the second is the admin view</h3>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+![Screenshot_1](https://user-images.githubusercontent.com/79446216/122378600-8854ff00-cf7f-11eb-8347-6f8772832d41.png)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+<h3></h3>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+![Screenshot_2](https://user-images.githubusercontent.com/79446216/122378601-88ed9580-cf7f-11eb-831e-770da03da936.png)
 
-## Learning Laravel
+<h3></h3>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+![Screenshot_3](https://user-images.githubusercontent.com/79446216/122378604-88ed9580-cf7f-11eb-886c-f5a88f03fe03.png)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+<h3></h3>
 
-## Laravel Sponsors
+![Screenshot_4](https://user-images.githubusercontent.com/79446216/122378606-89862c00-cf7f-11eb-8b2b-256c019f2f9b.png)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+<h3></h3>
 
-### Premium Partners
+![Screenshot_5](https://user-images.githubusercontent.com/79446216/122378608-89862c00-cf7f-11eb-876d-a3fc03edc85c.png)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
+<h3></h3>
 
-## Contributing
+![Screenshot_6](https://user-images.githubusercontent.com/79446216/122378610-8a1ec280-cf7f-11eb-8f90-830e96c2a560.png)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+<h3></h3>
 
-## Code of Conduct
+![Screenshot_7](https://user-images.githubusercontent.com/79446216/122378612-8a1ec280-cf7f-11eb-8f4b-b90357b45fdf.png)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+<h3></h3>
 
-## Security Vulnerabilities
+![Screenshot_8](https://user-images.githubusercontent.com/79446216/122378614-8ab75900-cf7f-11eb-8bf3-4811bd244be9.png)
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+<h3></h3>
 
-## License
+![Screenshot_9](https://user-images.githubusercontent.com/79446216/122378615-8ab75900-cf7f-11eb-8346-59cc4826a563.png)
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<h3></h3>
+
+![Screenshot_10](https://user-images.githubusercontent.com/79446216/122378616-8b4fef80-cf7f-11eb-9f02-d652c0e4b0fb.png)
+
+<h3></h3>
+
+![Screenshot_11](https://user-images.githubusercontent.com/79446216/122378617-8b4fef80-cf7f-11eb-9e05-fc2fbd85bd69.png)
+
+<h3></h3>
+
+![Screenshot_12](https://user-images.githubusercontent.com/79446216/122378618-8be88600-cf7f-11eb-86a7-d13665bc4164.png)
+
+<h3></h3>
+
+![Screenshot_13](https://user-images.githubusercontent.com/79446216/122378619-8be88600-cf7f-11eb-9000-4a43e6c32d59.png)
